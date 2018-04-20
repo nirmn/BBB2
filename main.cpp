@@ -1,7 +1,9 @@
-#include <LinkedList.h>
 #include "ObjBase.h"
 #include "ObjFactory.h"
 #include "Includes.h"
+#include <cstdio>
+#include "ledscape.h"
+
 
 //********DEFINES*********
 #define FIRST_LED_PIN 2
